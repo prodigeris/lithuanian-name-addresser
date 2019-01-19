@@ -2,7 +2,7 @@
     "name": "prodigeris/lithuanian-name-addresser",
     "description": "Helps you to change a Lithuanian name to the address form.",
     "keywords": ["lithuanian", "name", "address"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Arnas Kazlauskas",
