@@ -7,7 +7,13 @@ Example:
 
 `Arnas to Arnai`
 
-How to?
+How to install?
+--------
+```
+composer require prodigeris/lithuanian-name-addresser
+```
+
+How to use?
 --------
 ```
 $addresser = new LithuanianNameAddresser('Arnas');
