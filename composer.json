@@ -1,0 +1,24 @@
+{
+    "name": "prodigeris/lithuanian-name-addresser",
+    "description": "Helps you to change a Lithuanian name to the address form.",
+    "keywords": ["lithuanian", "name", "address"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Arnas Kazlauskas",
+            "email": "iam@arn.as"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prodigeris\\Lithuanian-name-addresser\\": "src/"
+        }
+    }
+}
