@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Prodigeris\\Lithuanian-name-addresser\\": "src/"
+            "Prodigeris\\LithuanianNameAddresser\\": "src/"
         }
     }
 }
